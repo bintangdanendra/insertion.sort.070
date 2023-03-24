@@ -31,7 +31,7 @@ void input()
     { 
 
         cout << "Data ke-" << (i + 1) << ": ";               // Memasukkan atau menginputkan nilai data n
-        cin >> arr[i];                                       // Memasukkan nilai data n kedalam Array arr
+        cin >> arr[i];                                       // Memasukkan nilai data n kedalam Array arr 
 
     }
 };
