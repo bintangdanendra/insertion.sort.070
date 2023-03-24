@@ -64,7 +64,7 @@ void insertionsort()
         {                                                   // Looping nilai k dimulai dari 0 hingga n-1
             cout << arr[k] << " ";                          // Output ke layar
         }
-    }
+    } 
 };
 
 void display()
