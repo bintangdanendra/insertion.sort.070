@@ -81,7 +81,7 @@ void display()
 
     }
     cout << endl;                                           // Output baris kosong
-}
+} 
 
 int main()
 {
