@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int arr[20];                                    // Membuat array dengan panjang data 20
 int n;                                          // Membuat variabel input n
@@ -28,7 +28,7 @@ void input()
 
     // Menggunakan perulangan for untuk menyimpan data pada array
     for (int i = 0; i < n; i++)
-    {
+    { 
 
         cout << "Data ke-" << (i + 1) << ": ";               // Memasukkan atau menginputkan nilai data n
         cin >> arr[i];                                       // Memasukkan nilai data n kedalam Array arr
